@@ -53,7 +53,7 @@ def update_student():
     print("Bunday ID topilmadi.")
 
 def delete_students():
-    students = load_students
+    students = load_students()
     id_ = input('ochirmoqchi bolgan student id ni kiriting: ')
     for i in students:
         if i['id'] == id_:
@@ -74,12 +74,12 @@ def search_student():
         print("Natija topilmadi.")
 
 def course_statistika():
-    students = load_students
+    students = load_students()
     status = []
     for i in students:
         course = i['course']
         status[course] = status.get(course ,0) +1
-    for course , count in status.iteams():
+    for course , count in status.items():
         print(f'{course} kursida: {count} student bor')
 
 
@@ -113,3 +113,6 @@ def menu():
             break
         else:
             print("Notogri tanlov.")
+
+
+menu()
