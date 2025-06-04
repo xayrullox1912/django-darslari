@@ -19,9 +19,9 @@ class Bank:
 
     def get_balance(self):
         return self.__balance
-    
+    @staticmethod
     # shu metodni statik metod qiling, chunki self ga bog'liq emas
-    def is_valid_amaout(self,amaout):        
+    def is_valid_amaout(amaout):
         return isinstance(amaout,(int,float)) and amaout > 0  
     
     def transfer_to(self,boshqa_acc,amaout):
