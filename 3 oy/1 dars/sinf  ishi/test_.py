@@ -15,7 +15,7 @@ class Test:
         return self.__price
 
     def set_price(self, value):
-        assert value > 0, "soni >0 bo'lishi kerak"
+        assert value > 0, "soni > 0 bo'lishi kerak"
         self.__price = value
 
     def get_stock(self):

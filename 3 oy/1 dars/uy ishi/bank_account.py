@@ -42,6 +42,7 @@ class Bank:
 account1 = Bank("Ali", 500)
 account2 = Bank("Vali", 300)
 
+
 account1.deposit(200)          
 account1.withdraw(100)         
 print(account1.get_balance())  
