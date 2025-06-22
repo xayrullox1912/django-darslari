@@ -1,0 +1,709 @@
+[
+    {
+        "id": 1,
+        "name": "Guruch641",
+        "stock": 99,
+        "price": 120046,
+        "category": "ichimlik"
+    },
+    {
+        "id": 2,
+        "name": "Tuz335",
+        "stock": 177,
+        "price": 145584,
+        "category": "go'sht"
+    },
+    {
+        "id": 3,
+        "name": "Sabzi258",
+        "stock": 47,
+        "price": 45992,
+        "category": "sabzavot"
+    },
+    {
+        "id": 4,
+        "name": "Non661",
+        "stock": 56,
+        "price": 20692,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 5,
+        "name": "Uzum178",
+        "stock": 9,
+        "price": 91579,
+        "category": "meva"
+    },
+    {
+        "id": 6,
+        "name": "Anor788",
+        "stock": 170,
+        "price": 90386,
+        "category": "ichimlik"
+    },
+    {
+        "id": 7,
+        "name": "Non625",
+        "stock": 21,
+        "price": 57150,
+        "category": "go'sht"
+    },
+    {
+        "id": 8,
+        "name": "Gilos758",
+        "stock": 25,
+        "price": 142254,
+        "category": "qandolat"
+    },
+    {
+        "id": 9,
+        "name": "Guruch281",
+        "stock": 4,
+        "price": 92072,
+        "category": "meva"
+    },
+    {
+        "id": 10,
+        "name": "Uzum544",
+        "stock": 178,
+        "price": 91589,
+        "category": "sabzavot"
+    },
+    {
+        "id": 11,
+        "name": "Uzum350",
+        "stock": 39,
+        "price": 33563,
+        "category": "qandolat"
+    },
+    {
+        "id": 12,
+        "name": "Bodring796",
+        "stock": 138,
+        "price": 44471,
+        "category": "go'sht"
+    },
+    {
+        "id": 13,
+        "name": "Piyoz107",
+        "stock": 125,
+        "price": 74439,
+        "category": "qandolat"
+    },
+    {
+        "id": 14,
+        "name": "Guruch451",
+        "stock": 175,
+        "price": 39047,
+        "category": "qandolat"
+    },
+    {
+        "id": 15,
+        "name": "Mandarin471",
+        "stock": 112,
+        "price": 143983,
+        "category": "meva"
+    },
+    {
+        "id": 16,
+        "name": "Makaron619",
+        "stock": 128,
+        "price": 20653,
+        "category": "sabzavot"
+    },
+    {
+        "id": 17,
+        "name": "Anor707",
+        "stock": 108,
+        "price": 14341,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 18,
+        "name": "Piyoz284",
+        "stock": 44,
+        "price": 124129,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 19,
+        "name": "Anor556",
+        "stock": 23,
+        "price": 27683,
+        "category": "meva"
+    },
+    {
+        "id": 20,
+        "name": "Un970",
+        "stock": 156,
+        "price": 125220,
+        "category": "meva"
+    },
+    {
+        "id": 21,
+        "name": "Guruch873",
+        "stock": 117,
+        "price": 127380,
+        "category": "sabzavot"
+    },
+    {
+        "id": 22,
+        "name": "Uzum617",
+        "stock": 31,
+        "price": 85046,
+        "category": "go'sht"
+    },
+    {
+        "id": 23,
+        "name": "Yog'224",
+        "stock": 97,
+        "price": 64905,
+        "category": "meva"
+    },
+    {
+        "id": 24,
+        "name": "Un563",
+        "stock": 32,
+        "price": 65193,
+        "category": "ichimlik"
+    },
+    {
+        "id": 25,
+        "name": "Tuxum379",
+        "stock": 137,
+        "price": 53465,
+        "category": "go'sht"
+    },
+    {
+        "id": 26,
+        "name": "Shaftoli336",
+        "stock": 46,
+        "price": 97367,
+        "category": "meva"
+    },
+    {
+        "id": 27,
+        "name": "Makaron760",
+        "stock": 45,
+        "price": 24890,
+        "category": "sabzavot"
+    },
+    {
+        "id": 28,
+        "name": "Gilos485",
+        "stock": 76,
+        "price": 77902,
+        "category": "go'sht"
+    },
+    {
+        "id": 29,
+        "name": "Kartoshka857",
+        "stock": 173,
+        "price": 136903,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 30,
+        "name": "Shakar654",
+        "stock": 42,
+        "price": 31400,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 31,
+        "name": "Bodring815",
+        "stock": 17,
+        "price": 124672,
+        "category": "qandolat"
+    },
+    {
+        "id": 32,
+        "name": "Makaron401",
+        "stock": 172,
+        "price": 40899,
+        "category": "go'sht"
+    },
+    {
+        "id": 33,
+        "name": "Anor185",
+        "stock": 186,
+        "price": 145533,
+        "category": "meva"
+    },
+    {
+        "id": 34,
+        "name": "Uzum909",
+        "stock": 191,
+        "price": 86514,
+        "category": "ichimlik"
+    },
+    {
+        "id": 35,
+        "name": "Guruch913",
+        "stock": 193,
+        "price": 83738,
+        "category": "qandolat"
+    },
+    {
+        "id": 36,
+        "name": "Yog'431",
+        "stock": 17,
+        "price": 98433,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 37,
+        "name": "Makaron247",
+        "stock": 23,
+        "price": 27337,
+        "category": "ichimlik"
+    },
+    {
+        "id": 38,
+        "name": "Tuxum925",
+        "stock": 39,
+        "price": 36296,
+        "category": "qandolat"
+    },
+    {
+        "id": 39,
+        "name": "Mandarin88",
+        "stock": 11,
+        "price": 24633,
+        "category": "ichimlik"
+    },
+    {
+        "id": 40,
+        "name": "Sabzi551",
+        "stock": 5,
+        "price": 144677,
+        "category": "go'sht"
+    },
+    {
+        "id": 41,
+        "name": "Kartoshka462",
+        "stock": 181,
+        "price": 16879,
+        "category": "qandolat"
+    },
+    {
+        "id": 42,
+        "name": "Bodring692",
+        "stock": 65,
+        "price": 141697,
+        "category": "sabzavot"
+    },
+    {
+        "id": 43,
+        "name": "Non560",
+        "stock": 4,
+        "price": 48428,
+        "category": "qandolat"
+    },
+    {
+        "id": 44,
+        "name": "Tuxum202",
+        "stock": 146,
+        "price": 53600,
+        "category": "go'sht"
+    },
+    {
+        "id": 45,
+        "name": "Tuz172",
+        "stock": 135,
+        "price": 89137,
+        "category": "qandolat"
+    },
+    {
+        "id": 46,
+        "name": "Bodring404",
+        "stock": 95,
+        "price": 75525,
+        "category": "meva"
+    },
+    {
+        "id": 47,
+        "name": "Makaron83",
+        "stock": 88,
+        "price": 147018,
+        "category": "meva"
+    },
+    {
+        "id": 48,
+        "name": "Yog'845",
+        "stock": 45,
+        "price": 138566,
+        "category": "qandolat"
+    },
+    {
+        "id": 49,
+        "name": "Un920",
+        "stock": 114,
+        "price": 61358,
+        "category": "go'sht"
+    },
+    {
+        "id": 50,
+        "name": "Yog'748",
+        "stock": 93,
+        "price": 94390,
+        "category": "meva"
+    },
+    {
+        "id": 51,
+        "name": "Non688",
+        "stock": 182,
+        "price": 31817,
+        "category": "sabzavot"
+    },
+    {
+        "id": 52,
+        "name": "Gilos170",
+        "stock": 193,
+        "price": 27037,
+        "category": "sabzavot"
+    },
+    {
+        "id": 53,
+        "name": "Makaron423",
+        "stock": 129,
+        "price": 148428,
+        "category": "qandolat"
+    },
+    {
+        "id": 54,
+        "name": "Yog'239",
+        "stock": 47,
+        "price": 121844,
+        "category": "sabzavot"
+    },
+    {
+        "id": 55,
+        "name": "Shakar857",
+        "stock": 33,
+        "price": 67852,
+        "category": "go'sht"
+    },
+    {
+        "id": 56,
+        "name": "Mandarin977",
+        "stock": 89,
+        "price": 32582,
+        "category": "sabzavot"
+    },
+    {
+        "id": 57,
+        "name": "Makaron671",
+        "stock": 124,
+        "price": 141189,
+        "category": "go'sht"
+    },
+    {
+        "id": 58,
+        "name": "Gilos639",
+        "stock": 134,
+        "price": 125879,
+        "category": "go'sht"
+    },
+    {
+        "id": 59,
+        "name": "Non89",
+        "stock": 91,
+        "price": 113022,
+        "category": "sabzavot"
+    },
+    {
+        "id": 60,
+        "name": "Apelsin733",
+        "stock": 180,
+        "price": 33839,
+        "category": "meva"
+    },
+    {
+        "id": 61,
+        "name": "Non527",
+        "stock": 97,
+        "price": 52353,
+        "category": "go'sht"
+    },
+    {
+        "id": 62,
+        "name": "Banan389",
+        "stock": 200,
+        "price": 68041,
+        "category": "sabzavot"
+    },
+    {
+        "id": 63,
+        "name": "Guruch220",
+        "stock": 134,
+        "price": 17981,
+        "category": "ichimlik"
+    },
+    {
+        "id": 64,
+        "name": "Un560",
+        "stock": 38,
+        "price": 84731,
+        "category": "qandolat"
+    },
+    {
+        "id": 65,
+        "name": "Un288",
+        "stock": 52,
+        "price": 123814,
+        "category": "ichimlik"
+    },
+    {
+        "id": 66,
+        "name": "Anor790",
+        "stock": 82,
+        "price": 134297,
+        "category": "meva"
+    },
+    {
+        "id": 67,
+        "name": "Shaftoli615",
+        "stock": 178,
+        "price": 59341,
+        "category": "ichimlik"
+    },
+    {
+        "id": 68,
+        "name": "Piyoz406",
+        "stock": 76,
+        "price": 22888,
+        "category": "sabzavot"
+    },
+    {
+        "id": 69,
+        "name": "Uzum805",
+        "stock": 64,
+        "price": 43709,
+        "category": "go'sht"
+    },
+    {
+        "id": 70,
+        "name": "Shakar753",
+        "stock": 58,
+        "price": 115060,
+        "category": "sabzavot"
+    },
+    {
+        "id": 71,
+        "name": "Tuz434",
+        "stock": 191,
+        "price": 56524,
+        "category": "sabzavot"
+    },
+    {
+        "id": 72,
+        "name": "Mandarin322",
+        "stock": 158,
+        "price": 59046,
+        "category": "meva"
+    },
+    {
+        "id": 73,
+        "name": "Mandarin729",
+        "stock": 81,
+        "price": 97449,
+        "category": "meva"
+    },
+    {
+        "id": 74,
+        "name": "Shaftoli27",
+        "stock": 6,
+        "price": 45857,
+        "category": "sabzavot"
+    },
+    {
+        "id": 75,
+        "name": "Piyoz322",
+        "stock": 99,
+        "price": 44161,
+        "category": "meva"
+    },
+    {
+        "id": 76,
+        "name": "Anor479",
+        "stock": 160,
+        "price": 149908,
+        "category": "meva"
+    },
+    {
+        "id": 77,
+        "name": "Sabzi359",
+        "stock": 154,
+        "price": 100459,
+        "category": "qandolat"
+    },
+    {
+        "id": 78,
+        "name": "Sabzi408",
+        "stock": 162,
+        "price": 76333,
+        "category": "sabzavot"
+    },
+    {
+        "id": 79,
+        "name": "Olma895",
+        "stock": 80,
+        "price": 16631,
+        "category": "sabzavot"
+    },
+    {
+        "id": 80,
+        "name": "Gilos57",
+        "stock": 79,
+        "price": 8734,
+        "category": "go'sht"
+    },
+    {
+        "id": 81,
+        "name": "Shakar928",
+        "stock": 117,
+        "price": 12938,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 82,
+        "name": "Shaftoli902",
+        "stock": 1,
+        "price": 78059,
+        "category": "ichimlik"
+    },
+    {
+        "id": 83,
+        "name": "Mandarin107",
+        "stock": 187,
+        "price": 9321,
+        "category": "go'sht"
+    },
+    {
+        "id": 84,
+        "name": "Un217",
+        "stock": 28,
+        "price": 128595,
+        "category": "qandolat"
+    },
+    {
+        "id": 85,
+        "name": "Kartoshka249",
+        "stock": 200,
+        "price": 130205,
+        "category": "ichimlik"
+    },
+    {
+        "id": 86,
+        "name": "Yog'7",
+        "stock": 131,
+        "price": 28234,
+        "category": "meva"
+    },
+    {
+        "id": 87,
+        "name": "Un241",
+        "stock": 64,
+        "price": 25383,
+        "category": "qandolat"
+    },
+    {
+        "id": 88,
+        "name": "Non588",
+        "stock": 18,
+        "price": 9980,
+        "category": "sabzavot"
+    },
+    {
+        "id": 89,
+        "name": "Shaftoli24",
+        "stock": 138,
+        "price": 118206,
+        "category": "qandolat"
+    },
+    {
+        "id": 90,
+        "name": "Yog'161",
+        "stock": 107,
+        "price": 50819,
+        "category": "ichimlik"
+    },
+    {
+        "id": 91,
+        "name": "Uzum578",
+        "stock": 32,
+        "price": 83871,
+        "category": "qandolat"
+    },
+    {
+        "id": 92,
+        "name": "Shaftoli699",
+        "stock": 4,
+        "price": 136697,
+        "category": "ichimlik"
+    },
+    {
+        "id": 93,
+        "name": "Tuxum460",
+        "stock": 57,
+        "price": 132310,
+        "category": "sabzavot"
+    },
+    {
+        "id": 94,
+        "name": "Shakar296",
+        "stock": 28,
+        "price": 15170,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 95,
+        "name": "Kartoshka983",
+        "stock": 61,
+        "price": 93030,
+        "category": "go'sht"
+    },
+    {
+        "id": 96,
+        "name": "Apelsin686",
+        "stock": 57,
+        "price": 142390,
+        "category": "meva"
+    },
+    {
+        "id": 97,
+        "name": "Un854",
+        "stock": 110,
+        "price": 142719,
+        "category": "qandolat"
+    },
+    {
+        "id": 98,
+        "name": "Apelsin539",
+        "stock": 157,
+        "price": 104227,
+        "category": "oziq-ovqat"
+    },
+    {
+        "id": 99,
+        "name": "Tuxum687",
+        "stock": 28,
+        "price": 52553,
+        "category": "sabzavot"
+    },
+    {
+        "id": 100,
+        "name": "Sabzi698",
+        "stock": 73,
+        "price": 115047,
+        "category": "go'sht"
+    },
+    {
+        "id": 101,
+        "name": "banan",
+        "stock": "100",
+        "price": "20000",
+        "category": "meva"
+    }
+]

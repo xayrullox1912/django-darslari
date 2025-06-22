@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "products": [
+            {
+                "name": "Olma",
+                "total": 3,
+                "price": 4000
+            },
+            {
+                "name": "Banan",
+                "total": 2,
+                "price": 5000
+            }
+        ],
+        "username": "ali123",
+        "date": "2025-06-20",
+        "status": "tasdiqlanmagan"
+    },
+    {
+        "id": 2,
+        "products": [
+            {
+                "name": "Sut",
+                "total": 1,
+                "price": 10000
+            }
+        ],
+        "username": "salim98",
+        "date": "2025-06-19",
+        "status": "tasdiqlangan"
+    },
+    {
+        "id": 3,
+        "products": [
+            {
+                "name": "Non",
+                "total": 5,
+                "price": 2000
+            },
+            {
+                "name": "Yog'",
+                "total": 1,
+                "price": 15000
+            }
+        ],
+        "username": "malika_05",
+        "date": "2025-06-18",
+        "status": "qabul qilingan"
+    },
+    {
+        "id": 4,
+        "product": [
+            {
+                "name": "asdf",
+                "total": 12,
+                "price": 3000
+            }
+        ],
+        "user": "xayrullox",
+        "date": "2025-06-22 18:11:13",
+        "status": "tasdiqlanmagan"
+    }
+]
